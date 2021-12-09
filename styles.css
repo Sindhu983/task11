@@ -10,6 +10,7 @@ label{
 #output{
     margin: 1rem;
     
+    
 }
 .container{
 
@@ -22,5 +23,8 @@ label{
     background-color: rgb(188, 231, 217);
     text-align: center;
     border: 2px solid black;
+}
+#submit-btn{
+    border-radius: 0.5rem;
 }
 
