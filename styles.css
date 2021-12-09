@@ -1,0 +1,26 @@
+
+body{
+    text-align: center;
+    background-color: rgb(253, 250, 247);
+}
+label{
+    display: block;
+    padding-bottom: 2rem;
+}
+#output{
+    margin: 1rem;
+    
+}
+.container{
+
+    max-width: 60%;
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    margin: auto;
+    background-color: rgb(188, 231, 217);
+    text-align: center;
+    border: 2px solid black;
+}
+
